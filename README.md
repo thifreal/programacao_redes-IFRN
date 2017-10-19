@@ -1,2 +1,2 @@
 # programacao_redes-IFRN
-## Códigos concernentes a disciplinas, a prior em python 3.6
+### Códigos concernentes a disciplina, *a priori* em python 3.6.
