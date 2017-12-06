@@ -2,7 +2,7 @@ import socket
 import requests
 import json
 '''
-Autorizar e autenicar no DJANGO ! ! !
+Autorizar e autenicar no DJANGO, pegando X-CSRFToken e Authorization !!!
 
 request_text = """\r\n\
 GET /api/v2/minhas-informacoes/meus-dados/ HTTP/1.1\r\n\
